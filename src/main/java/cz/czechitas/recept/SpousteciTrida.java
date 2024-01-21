@@ -51,5 +51,5 @@ public class SpousteciTrida {
 
     cervenaMiska.nalozSiJedenKus(vajicka);
   }
-
+  cervenaMiska.malozi
 }
